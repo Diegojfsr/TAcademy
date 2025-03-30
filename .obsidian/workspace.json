@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "426e963bf945ed5d",
+    "type": "split",
+    "children": [
+      {
+        "id": "72535995c6de3c4a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed0bdcf21f1925b4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5ba764688d4c4512",
+    "type": "split",
+    "children": [
+      {
+        "id": "e69cea894601dc20",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f59c897ae622b68a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "b2ce9e7a2593fcf1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "b9fa5748b6da9587",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 306
+  },
+  "right": {
+    "id": "540752595780d070",
+    "type": "split",
+    "children": [
+      {
+        "id": "90b6edcbbaa00929",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "38169557652d9a32",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "⚛️ ReactJs/⚛️ ReactJs.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de ⚛️ ReactJs"
+            }
+          },
+          {
+            "id": "191d38301f08e2d9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "React Router/7️⃣ Projeto Pratico.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para 7️⃣ Projeto Pratico"
+            }
+          },
+          {
+            "id": "c45d1da6f99ebd75",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "React Router/7️⃣ Projeto Pratico.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para 7️⃣ Projeto Pratico"
+            }
+          },
+          {
+            "id": "66b8b433d17b8f15",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 254,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "ed0bdcf21f1925b4",
+  "lastOpenFiles": [
+    "JavaScript, jQuery e Ajax/Avaliação Final.md",
+    "JavaScript, jQuery e Ajax/Aula 135 - Conclusão do curso.md",
+    "JavaScript, jQuery e Ajax/Aula 134 - Exercício Final.md",
+    "JavaScript, jQuery e Ajax/Aula 133 - Exercício 06 - Resolvido - parte 2.md",
+    "JavaScript, jQuery e Ajax/Aula 132 - Exercício 06 - Resolvido - parte 1.md",
+    "JavaScript, jQuery e Ajax/Aula 131 - Exercício 06.md",
+    "JavaScript, jQuery e Ajax/Aula 130 - DevTools do Navegador.md",
+    "JavaScript, jQuery e Ajax/Aula 129 - Vulnerabilidades.md",
+    "JavaScript, jQuery e Ajax/Aula 128 - Ajax - JavaScript - Post.md",
+    "JavaScript, jQuery e Ajax/Aula 127 - Ajax - JavaScript e arquivo.md",
+    "JavaScript, jQuery e Ajax/Aula 126 - Ajax - Retornos do servidor - status.md",
+    "JavaScript, jQuery e Ajax/Aula 125 - Ajax - Retornos do servidor - readyState.md",
+    "JavaScript, jQuery e Ajax/Aula 124 - Ajax - Estrutura.md",
+    "JavaScript, jQuery e Ajax/Aula 123 - Ajax - Documentação.md",
+    "JavaScript, jQuery e Ajax/Aula 122 - Ajax - O que é.md",
+    "JavaScript, jQuery e Ajax/Aula 121 - jQuery - Exercício 04 - Resolvido.md",
+    "JavaScript, jQuery e Ajax/Aula 120 - jQuery - Exercício 04.md",
+    "JavaScript, jQuery e Ajax/Aula 119 - jQuery - Trabalhando com pluggins.md",
+    "JavaScript, jQuery e Ajax/Aula 118 - jQuery - Tratamento de possíveis erros.md",
+    "JavaScript, jQuery e Ajax/Aula 117 - jQuery - Métodos úteis.md",
+    "JavaScript, jQuery e Ajax/Aula 116 - jQuery - Informações sobre elementos.md",
+    "JavaScript, jQuery e Ajax/Aula 115 - jQuery - Atributos de tag.md",
+    "JavaScript, jQuery e Ajax/Aula 114 - jQuery - Seleção de elementos - parte 2.md",
+    "JavaScript, jQuery e Ajax/Aula 113 - jQuery - Seleção de elementos.md",
+    "JavaScript, jQuery e Ajax/Aula 112 - jQuery - Sintaxe Scopo global e multiplos elementos.md",
+    "JavaScript, jQuery e Ajax/Aula 111 - jQuery - Sintaxe elementos Id e Class.md",
+    "JavaScript, jQuery e Ajax",
+    "CSS Avançado",
+    "Fundamentos em CSS",
+    "HTML Avançado",
+    "Fundamentos em HTML Módulo 3",
+    "Fundamentos em HTML Módulo 2",
+    "Fundamentos em HTML Módulo 1",
+    "Lógica de Programação e Algoritmos III",
+    "Lógica de Programação e Algoritmos II",
+    "Lógica de Programação e Algoritmos I"
+  ]
+}
